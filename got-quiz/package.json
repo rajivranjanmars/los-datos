@@ -16,7 +16,7 @@
     "@types/react": "^18.2.43",
     "@types/react-dom": "^18.2.17",
     "@vitejs/plugin-react": "^4.7.0",
-    "vite": "^6.4.0"
+    "vite": "^8.3.2"
   },
   "author": {
     "name": "rajivranjanmars",
