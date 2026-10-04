@@ -53,3 +53,8 @@ cd got-quiz
 # Install dependencies
 npm install
 ```
+
+
+## Author
+
+[rajivranjanmars](https://rajivranjana.in)
